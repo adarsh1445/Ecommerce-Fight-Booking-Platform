@@ -43,8 +43,8 @@ Click the live url or clone the repository using git clone https://github.com/ad
 ## Snapshots
 
 - Mobile Screens
- 
-![1](https://user-images.githubusercontent.com/69414310/196405690-ca403d3c-fc65-43e9-aa86-2b614a48575d.jpg)
+
+<img src="https://user-images.githubusercontent.com/69414310/196405690-ca403d3c-fc65-43e9-aa86-2b614a48575d.jpg" width="100" height="200" >
 
 ![2](https://user-images.githubusercontent.com/69414310/196405701-55006f78-345a-4f29-ab5c-9911ce39b6a8.jpg)
 
