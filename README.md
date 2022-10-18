@@ -42,6 +42,23 @@ Click the live url or clone the repository using git clone https://github.com/ad
 
 ## Snapshots
 
+- Mobile Screens
+ 
+![1](https://user-images.githubusercontent.com/69414310/196405690-ca403d3c-fc65-43e9-aa86-2b614a48575d.jpg)
+
+![2](https://user-images.githubusercontent.com/69414310/196405701-55006f78-345a-4f29-ab5c-9911ce39b6a8.jpg)
+
+![3](https://user-images.githubusercontent.com/69414310/196405706-8ae9cca5-f560-4da6-8415-e7f2c89051ca.jpg)
+
+![4](https://user-images.githubusercontent.com/69414310/196405712-65842215-8945-4e27-9796-4c02e126a3b3.jpg)
+
+![5](https://user-images.githubusercontent.com/69414310/196405718-cceecb14-6024-46e2-9d5d-ff985554f8b4.jpg)
+
+![6](https://user-images.githubusercontent.com/69414310/196405733-1969036c-c18d-4d7f-8114-43c30814d062.jpg)
+
+- Mail
+ ![Screenshot](https://user-images.githubusercontent.com/69414310/196404227-c84b3ed2-8e84-4ea8-949b-c75f66d3d7c8.png)
+ 
 - Destop Screens
 
  ![Screenshot (379)](https://user-images.githubusercontent.com/69414310/196404378-28ef91a2-48ce-442d-a746-996c4d2ce4df.png)
@@ -57,7 +74,7 @@ Click the live url or clone the repository using git clone https://github.com/ad
 ![Screenshot (377)](https://user-images.githubusercontent.com/69414310/196402868-9d53f48b-2cd9-4bf1-a330-cb09498470bf.png)
 
 
-![Screenshot](https://user-images.githubusercontent.com/69414310/196404227-c84b3ed2-8e84-4ea8-949b-c75f66d3d7c8.png)
+
 
 
  
