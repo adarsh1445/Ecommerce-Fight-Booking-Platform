@@ -36,12 +36,15 @@ Used React ts for frontend and Express ts with Db Postgres sql for backend. The 
 Click the live url or clone the repository using git clone https://github.com/adarsh1445/Tech-Innovation-Task/ and open ui then run npm install then run npm start which will open a localhost where the project gets displayed.
 
 ## Note:
+
  Used Razorpay Test payments for demo transactions since no real payment happens. So make Complete transaction and recieve the ticket.
+
 
 ## Snapshots
 
 - Destop Screens
- ![1](https://user-images.githubusercontent.com/69414310/196402175-c8e4a65d-a913-41ba-b7ab-e1dbdd0d7ec8.png)
+
+ ![Screenshot (379)](https://user-images.githubusercontent.com/69414310/196404378-28ef91a2-48ce-442d-a746-996c4d2ce4df.png)
  
  ![Screenshot (372)](https://user-images.githubusercontent.com/69414310/196402468-72a31cbe-c043-44e8-b1aa-4e69cb5f1efe.png)
  
@@ -53,7 +56,8 @@ Click the live url or clone the repository using git clone https://github.com/ad
 
 ![Screenshot (377)](https://user-images.githubusercontent.com/69414310/196402868-9d53f48b-2cd9-4bf1-a330-cb09498470bf.png)
 
-![Screenshot (378)](https://user-images.githubusercontent.com/69414310/196402895-0e05441d-096e-4d1e-ac3c-a25092f6b2e1.png)
+
+![Screenshot](https://user-images.githubusercontent.com/69414310/196404227-c84b3ed2-8e84-4ea8-949b-c75f66d3d7c8.png)
 
 
  
