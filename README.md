@@ -44,7 +44,7 @@ Click the live url or clone the repository using git clone https://github.com/ad
 
 - Mobile Screens
 
-<img src="https://user-images.githubusercontent.com/69414310/196405690-ca403d3c-fc65-43e9-aa86-2b614a48575d.jpg" width="300" height="700" >  
+<img src="https://user-images.githubusercontent.com/69414310/196405690-ca403d3c-fc65-43e9-aa86-2b614a48575d.jpg" width="400" height="800" >  
 
 <img src="https://user-images.githubusercontent.com/69414310/196405701-55006f78-345a-4f29-ab5c-9911ce39b6a8.jpg" width="200" height="400" > 
 
